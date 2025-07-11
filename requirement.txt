@@ -1,0 +1,13 @@
+matplotlib
+seaborn
+plotly
+pandas
+numpy
+streamlit
+scikit-learn
+mysql-connector-python
+requests
+googletrans==4.0.0rc1
+pyttsx3
+streamlit-folium
+joblib
